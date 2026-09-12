@@ -54,15 +54,21 @@ The project focuses on building a semantic and accessible web component while ap
 1. Clone or download this repository.
 
 ```bash
-git clone https://github.com/aditnurdiansyah/accessible-form-ui
+git clone https://github.com/aditnurdiansyah/accessible-form-user-interface
 ```
 
 2. Navigate to the project folder.
 
 ```bash
-cd accessible-form-ui
+cd accessible-form-user-interface
 ```
 
 3. Open `index.html` in your browser.
 
 4. Customize the styling, input controls, and form validation states according to your UI/UX application requirements.
+
+## Conclusion
+
+This project provides practical experience in designing and building a responsive, accessible form UI component with clean aesthetics, semantic structure, and accessible interface design.
+
+By completing this project, the component serves as a reusable input element for user registration, checkout flows, feedback forms, and dashboard interfaces.
