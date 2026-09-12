@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <div class="form-container">
+    <main class="form-container">
       <form action="#" method="post">
         <div class="form-group">
           <label for="full-name">Full Name</label>
@@ -38,12 +38,13 @@
 
         <div class="form-group">
           <label for="email">Email</label>
-          <input type="email" id="email" name="email" placeholder="demo@email.com" aria-required="true" aria-invalid="true">
+          <input type="email" id="email" name="email" placeholder="jhon.doe@gmail.com" aria-required="true" aria-invalid="true">
+          <span class="error-message">Please enter a valid email address</span>
         </div>
 
         <div class="form-group password-container">
           <label for="password">Enter Password</label>
-          <input type="password" id="password" name="password" aria-required="true">
+          <input type="password" id="password" name="password" placeholder="xxxxxxxx" aria-required="true">
           <button type="button" class="show-password-btn" aria-label="Password is hidden" aria-pressed="false">
             <svg stroke="#b0b0b0" width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -55,7 +56,7 @@
 
         <div class="form-group password-container">
           <label for="confirm-password">Confirm Password</label>
-          <input type="password" id="confirm-password" name="confirm-password" aria-required="true">
+          <input type="password" id="confirm-password" name="confirm-password" placeholder="xxxxxxxx" aria-required="true">
           <button type="button" class="show-password-btn" aria-label="Password is hidden" aria-pressed="false">
             <svg stroke="#b0b0b0" width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -87,7 +88,6 @@
           </ul>
         </div>
       </form>
-    </div>
+    </main>
   </body>
-
 </html>
