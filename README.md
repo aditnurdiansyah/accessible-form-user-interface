@@ -78,3 +78,5 @@ By completing this project, the component serves as a reusable input element for
 <p align="center">
   <img src="/assets/project-preview.png" alt="Project Preview" width="800">
 </p>
+
+This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/accessible-form-ui) frontend developer path.
