@@ -25,3 +25,15 @@ The project focuses on building a semantic and accessible web component while ap
 
 * **Form Validation & Interactive States**
   Design distinct visual focus outlines, hover/active states, visual error feedback, and accessible form input controls to provide clear guidance during user interaction.
+
+## Project Structure
+
+* **Homepage (`index.html`)**
+  The primary HTML document containing the accessible form structure, input controls, fieldsets, accessible labels, and action buttons.
+
+* **Styles (`css/style.css`)**
+  Contains custom CSS styling, form alignment, accessible focus rings, error indicators, and responsive layout adjustments.
+
+* **Assets (`assets/`)**
+  Directory containing project icons, favicons, Open Graph images, and `project-preview.png`.
+
