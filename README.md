@@ -48,3 +48,21 @@ The project focuses on building a semantic and accessible web component while ap
 * [x] Clear visual focus indicators for keyboard navigation.
 * [x] Consistent use of color palette, contrast ratios, and typography.
 * [x] Proper use of CSS Flexbox and CSS Grid techniques.
+
+## How to Use
+
+1. Clone or download this repository.
+
+```bash
+git clone https://github.com/aditnurdiansyah/accessible-form-ui
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd accessible-form-ui
+```
+
+3. Open `index.html` in your browser.
+
+4. Customize the styling, input controls, and form validation states according to your UI/UX application requirements.
