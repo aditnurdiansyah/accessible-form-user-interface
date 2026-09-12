@@ -72,3 +72,9 @@ cd accessible-form-user-interface
 This project provides practical experience in designing and building a responsive, accessible form UI component with clean aesthetics, semantic structure, and accessible interface design.
 
 By completing this project, the component serves as a reusable input element for user registration, checkout flows, feedback forms, and dashboard interfaces.
+
+## Project Preview
+
+<p align="center">
+  <img src="/assets/project-preview.png" alt="Project Preview" width="800">
+</p>
